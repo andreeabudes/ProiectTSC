@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="16" fill="1" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="17" fill="1" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="18" fill="1" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="19" fill="1" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="25" fill="1" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="26" fill="1" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="27" fill="1" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="28" fill="1" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="29" fill="1" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="30" fill="1" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="20" fill="1" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="21" fill="1" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="22" fill="1" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="23" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
+<layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
+<layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
+<layer number="5" name="Route5" color="19" fill="1" visible="no" active="no"/>
+<layer number="6" name="Route6" color="25" fill="1" visible="no" active="no"/>
+<layer number="7" name="Route7" color="26" fill="1" visible="no" active="no"/>
+<layer number="8" name="Route8" color="27" fill="1" visible="no" active="no"/>
+<layer number="9" name="Route9" color="28" fill="1" visible="no" active="no"/>
+<layer number="10" name="Route10" color="29" fill="1" visible="no" active="no"/>
+<layer number="11" name="Route11" color="30" fill="1" visible="no" active="no"/>
+<layer number="12" name="Route12" color="20" fill="1" visible="no" active="no"/>
+<layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
+<layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,12 +53,12 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -4682,11 +4682,6 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 <wire x1="203.2" y1="147.32" x2="198.12" y2="147.32" width="0.1524" layer="91"/>
 <label x="198.12" y="147.32" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="P1.04@U24"/>
-<wire x1="281.94" y1="132.08" x2="287.02" y2="132.08" width="0.1524" layer="91"/>
-<label x="287.02" y="132.08" size="1.27" layer="95" xref="yes"/>
-</segment>
 </net>
 <net name="EPD_CS" class="0">
 <segment>
@@ -4765,11 +4760,6 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 <junction x="152.4" y="180.34"/>
 <pinref part="C18" gate="G$1" pin="1"/>
 <label x="193.04" y="154.94" size="1.524" layer="95"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="P1.01@Y23"/>
-<wire x1="281.94" y1="124.46" x2="287.02" y2="124.46" width="0.1524" layer="91"/>
-<label x="287.02" y="124.46" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="D-" class="0">
@@ -4899,7 +4889,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 <label x="261.62" y="93.98" size="1.27" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
-<net name="P0.07" class="0">
+<net name="P1.07" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P1.07@P23"/>
 <wire x1="281.94" y1="139.7" x2="287.02" y2="139.7" width="0.1524" layer="91"/>
@@ -4920,14 +4910,14 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 <label x="287.02" y="144.78" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="P0.06" class="0">
+<net name="P1.06" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P1.06@R24"/>
 <wire x1="281.94" y1="137.16" x2="287.02" y2="137.16" width="0.1524" layer="91"/>
 <label x="287.02" y="137.16" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="P0.05" class="0">
+<net name="P1.05" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P1.05@T23"/>
 <wire x1="281.94" y1="134.62" x2="287.02" y2="134.62" width="0.1524" layer="91"/>
@@ -4968,14 +4958,14 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 <label x="154.432" y="45.212" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="P0.02" class="0">
+<net name="P1.02" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P1.02@W24"/>
 <wire x1="281.94" y1="127" x2="287.02" y2="127" width="0.1524" layer="91"/>
 <label x="287.02" y="127" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="P0.03" class="0">
+<net name="P1.03" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P1.03@V23"/>
 <wire x1="281.94" y1="129.54" x2="287.02" y2="129.54" width="0.1524" layer="91"/>
@@ -5028,6 +5018,11 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 <wire x1="330.2" y1="185.42" x2="335.28" y2="185.42" width="0.1524" layer="91"/>
 <pinref part="C2" gate="G$1" pin="1"/>
 <pinref part="X1" gate="X$1" pin="3"/>
+<pinref part="U1" gate="G$1" pin="XC2@A23"/>
+<wire x1="281.94" y1="162.56" x2="320.04" y2="162.56" width="0.1524" layer="91"/>
+<wire x1="320.04" y1="162.56" x2="320.04" y2="185.42" width="0.1524" layer="91"/>
+<wire x1="320.04" y1="185.42" x2="330.2" y2="185.42" width="0.1524" layer="91"/>
+<junction x="330.2" y="185.42"/>
 </segment>
 </net>
 <net name="N$15" class="0">
@@ -5050,6 +5045,20 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 <wire x1="281.94" y1="142.24" x2="302.26" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="302.26" y1="142.24" x2="302.26" y2="139.7" width="0.1524" layer="91"/>
 <pinref part="C9" gate="G$1" pin="2"/>
+</segment>
+</net>
+<net name="P1.01" class="0">
+<segment>
+<pinref part="U1" gate="G$1" pin="P1.01@Y23"/>
+<wire x1="281.94" y1="124.46" x2="287.02" y2="124.46" width="0.1524" layer="91"/>
+<label x="287.02" y="124.46" size="1.27" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="P1.04" class="0">
+<segment>
+<pinref part="U1" gate="G$1" pin="P1.04@U24"/>
+<wire x1="281.94" y1="132.08" x2="287.02" y2="132.08" width="0.1524" layer="91"/>
+<label x="287.02" y="132.08" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 </nets>
